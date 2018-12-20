@@ -1,0 +1,12 @@
+C:\Users\madura.d\source\repos\AzureVision\AzureVision\AzureVision\bin\Debug\netstandard2.0\AzureVision.deps.json
+C:\Users\madura.d\source\repos\AzureVision\AzureVision\AzureVision\bin\Debug\netstandard2.0\AzureVision.dll
+C:\Users\madura.d\source\repos\AzureVision\AzureVision\AzureVision\bin\Debug\netstandard2.0\AzureVision.pdb
+C:\Users\madura.d\source\repos\AzureVision\AzureVision\AzureVision\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\madura.d\source\repos\AzureVision\AzureVision\AzureVision\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\madura.d\source\repos\AzureVision\AzureVision\AzureVision\obj\Debug\netstandard2.0\AzureVision.csproj.CoreCompileInputs.cache
+C:\Users\madura.d\source\repos\AzureVision\AzureVision\AzureVision\obj\Debug\netstandard2.0\AzureVision.AssemblyInfoInputs.cache
+C:\Users\madura.d\source\repos\AzureVision\AzureVision\AzureVision\obj\Debug\netstandard2.0\AzureVision.AssemblyInfo.cs
+C:\Users\madura.d\source\repos\AzureVision\AzureVision\AzureVision\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\madura.d\source\repos\AzureVision\AzureVision\AzureVision\obj\Debug\netstandard2.0\AzureVision.dll
+C:\Users\madura.d\source\repos\AzureVision\AzureVision\AzureVision\obj\Debug\netstandard2.0\AzureVision.pdb
+C:\Users\madura.d\source\repos\AzureVision\AzureVision\AzureVision\obj\Debug\netstandard2.0\AzureVision.csprojAssemblyReference.cache
